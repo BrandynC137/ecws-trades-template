@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import "flowbite/src/themes/default";
+
+html {
+  scroll-behavior: smooth;
+}
+
+#hero-section {
+  background-image: url("/images/hero-section.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
