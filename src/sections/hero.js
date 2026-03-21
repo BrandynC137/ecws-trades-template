@@ -11,7 +11,7 @@ export function hero() {
             </h1>
 
             <!-- Subtext -->
-            <p class="mb-6 text-lg text-gray-600">
+            <p class="mb-6 text-lg text-black-900">
                 From outdoor transformations to home improvements, we deliver quality workmanship at a fair price. Serving homeowners and businesses in your local area.
             </p>
 
