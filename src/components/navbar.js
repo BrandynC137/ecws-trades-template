@@ -4,7 +4,7 @@ export function navbar() {
             <nav class="bg-neutral-primary">
                 <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
                     <a href="https://trades.emeraldcoastwebsolutions.com" class="flex items-center space-x-3 rtl:space-x-reverse">
-                        <img src="/images/trades-logo.png" class="w-10" loading="lazy" alt="Your Copmany Logo" />
+                        <img src="/images/trades-logo.webp" class="w-10" loading="lazy" alt="Your Copmany Logo" />
                         <span class="self-center text-xl text-heading font-semibold whitespace-nowrap hidden sm:inline">Your Company</span>
                     </a>
                     <div class="flex items-center space-x-6 rtl:space-x-reverse">

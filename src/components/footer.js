@@ -8,7 +8,7 @@ export function footer() {
       <!-- Company Info -->
       <div>
         <a href="https://trades.emeraldcoastwebsolutions.com" class="flex items-center mb-4">
-          <img src="/images/trades-logo.png" class="mr-3 h-8" alt="Company Logo" />
+          <img src="/images/trades-logo.webp" class="mr-3 h-8" alt="Company Logo" />
           <span class="text-xl font-semibold text-gray-900">Your Company</span>
         </a>
         <p class="text-gray-600 text-sm">
